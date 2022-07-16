@@ -1,0 +1,19 @@
+.btn-submit{
+    background-color: black;
+    color: blue;
+    font-size: 15px;
+    height: 3.5rem;
+    width: 8.5rem;
+    border-radius: 10px;
+}
+
+.btn-submit:hover{
+    color: black;
+    border: solid blue 2px;
+    background-color: white;
+    cursor: pointer;
+}
+form{
+    display: flex;
+    gap: 2rem;
+}
